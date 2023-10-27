@@ -30,7 +30,7 @@ public class Main {
             }
         }
         System.out.println("Ebob= " + ebob);
-        System.out.println("Ekok= " + (n1 * n2 / ebob));
+        System.out.println("Ekok= " + (n1*n2 / ebob));
 
 
     }
